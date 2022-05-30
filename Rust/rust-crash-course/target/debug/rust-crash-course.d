@@ -1,0 +1,1 @@
+/home/rkhaq/Repos/Tutorials/Rust/rust-crash-course/target/debug/rust-crash-course: /home/rkhaq/Repos/Tutorials/Rust/rust-crash-course/src/main.rs /home/rkhaq/Repos/Tutorials/Rust/rust-crash-course/src/print.rs
